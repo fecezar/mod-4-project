@@ -35,15 +35,17 @@ Out of 840 wine varieties in the dataset, only 28 contained more then 1,000 revi
 The neural network will only use those 28 labels in the dataset, which still account for 81% of the data.
 
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/cum_freq.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/abs_freq.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/class_imb.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/class_imb.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/cabernt_wordcloud.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/cabernt_wordcloud.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/chard_wordcloud.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/chard_wordcloud.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/pinot_wordcloud.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/pinot_wordcloud.png)
+
+![n_words](https://github.com/fecezar/mod-4-project/blob/master/n_words_per_review.png)
 
 # Vectorization
 
@@ -53,8 +55,9 @@ a TD-IDF Vectorization was performed on the data and fed into a Neural Network
 
 Final Accuracy achieved on test data was 72%, considering 28 possible varieties
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/train_acc.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/train_acc.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/train_loss.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/train_loss.png)
 
-![alt text](https://github.com/fecezar/mod-4-project/blob/main/conf_matrix.png?raw=true)
+![alt text](https://github.com/fecezar/mod-4-project/blob/master/conf_matrix.png)
+
